@@ -1,0 +1,191 @@
+:root {
+    /*
+   * Colors - RGB values only
+   */
+  
+    /* OFFISHAL COLOURS */
+  
+    /* Background colour palette /
+    / Note - Primary Navy BG is same as UoM Navy */
+    --col-bg-primary-navy: 9, 65, 131;
+    --col-bg-primary-grey: 247, 247, 247;
+    --col-bg-primary-white: 255, 255, 255;
+    --col-bg-secondary-navy: 3, 58, 123;
+    --col-bg-secondary-grey: 228, 228, 228;
+    --col-bg-tertiary-navy: 1, 42, 88;
+  
+    /* Primary palette /
+    / Note - Navy Dark is UoM Navy */
+    --col-navy-dark: 9, 65, 131;
+    --col-navy-mid-2: 93, 130, 173;
+    --col-navy-mid-1: 171, 190, 213;
+    --col-navy-light: 242, 245, 249;
+  
+    /* Supporting palette */
+    --col-black-dark: 0, 0, 0;
+    --col-black-mid-2: 153, 162, 170;
+    --col-black-mid-1: 198, 200, 202;
+    --col-black-light: 235, 236, 236;
+    --col-teal-dark: 2, 112, 127;
+    --col-teal-mid-2: 63, 167, 194;
+    --col-teal-mid-1: 124, 189, 206;
+    --col-teal-light: 203, 232, 239;
+  
+    /* Note - there is no dark yellow in the brand palette */
+    --col-yellow-mid-2: 236, 174, 101;
+    --col-yellow-mid-1: 255, 220, 162;
+    --col-yellow-light: 253, 242, 223;
+    --col-emerald-dark: 34, 118, 95;
+    --col-emerald-mid-2: 89, 177, 127;
+    --col-emerald-mid-1: 152, 214, 195;
+    --col-emerald-light: 213, 242, 230;
+    --col-blue-dark: 53, 101, 158;
+    --col-blue-mid-2: 64, 116, 178;
+    --col-blue-mid-1: 173, 205, 240;
+    --col-blue-light: 205, 230, 255;
+    --col-orange-dark: 185, 61, 28;
+    --col-orange-mid-2: 231, 112, 82;
+    --col-orange-mid-1: 255, 164, 120;
+    --col-orange-light: 255, 220, 186;
+    --col-green-dark: 70, 119, 73;
+    --col-green-mid-2: 161, 209, 114;
+    --col-green-mid-1: 218, 226, 153;
+    --col-green-light: 243, 248, 215;
+    --col-purple-dark: 87, 96, 164;
+    --col-purple-mid-2: 114, 131, 191;
+    --col-purple-mid-1: 176, 188, 225;
+    --col-purple-light: 222, 224, 248;
+    --col-pink-dark: 152, 65, 64;
+    --col-pink-mid-2: 238, 136, 137;
+    --col-pink-mid-1: 255, 189, 204;
+    --col-pink-light: 255, 223, 230;
+  
+    /* Colours that are outside of the brand palette */
+    --col-orange-mid-0: 255, 182, 145;
+    --col-grey-mid-1: 105, 109, 115;
+    --col-grey-mid-2: 75, 77, 83;
+    --col-brand: var(--col-navy-dark);
+    --col-brand-light-2: 218, 227, 237;
+  
+    /* Rotating colours */
+    --col-1: var(--col-black-mid-2);
+    --col-2: var(--col-teal-mid-2);
+    --col-3: var(--col-yellow-mid-2);
+    --col-4: var(--col-emerald-mid-2);
+    --col-5: var(--col-orange-mid-2);
+    --col-6: var(--col-purple-mid-2);
+    --col-7: var(--col-pink-mid-2);
+  
+    /* Link colours - http://paletton.com/#uid=13o0u0kmmGKbYTnhIN2qUABwFtZ */
+    --col-link: 15, 91, 114;
+    --col-link-visited: var(--col-purple-dark);
+    --col-link-active: 2, 72, 92;
+    --col-link-on-dark: 124, 189, 205;
+    --col-link-visited-on-dark: 193, 202, 230;
+    --col-link-active-on-dark: 255, 255, 255;
+  
+    /* Sample plan colours */
+    --col-text-breadth: 107, 54, 0;
+    --col-text-capstone: 0, 77, 57;
+    --col-text-compulsory: 140, 33, 32;
+    --col-text-core: 18, 68, 128;
+    --col-text-elective: 3, 74, 84;
+    --col-text-major: 52, 61, 130;
+    --col-bar-breadth-dark: 125, 73, 15;
+    --col-bar-capstone-dark: 0, 99, 75;
+    --col-bar-compulsory-dark: 161, 51, 50;
+    --col-bar-core-dark: 28, 86, 156;
+    --col-bar-elective-dark: 0, 95, 110;
+    --col-bar-major-dark: 70, 80, 153;
+    --col-bar-breadth: 171, 106, 9;
+    --col-bar-capstone: 18, 138, 105;
+    --col-bar-compulsory: 201, 86, 85;
+    --col-bar-core: 65, 123, 191;
+    --col-bar-elective: 0, 133, 153;
+    --col-bar-major: 103, 113, 194;
+    --col-plate-breadth-dark: 247, 238, 215;
+    --col-plate-capstone-dark: 225, 242, 235;
+    --col-plate-compulsory-dark: 255, 235, 239;
+    --col-plate-core-dark: 227, 241, 255;
+    --col-plate-elective-dark: 225, 242, 247;
+    --col-plate-major-dark: 237, 239, 255;
+    --col-plate-breadth: 250, 245, 232;
+    --col-plate-capstone: 237, 250, 245;
+    --col-plate-compulsory: 252, 245, 247;
+    --col-plate-core: 240, 248, 255;
+    --col-plate-elective: 240, 248, 250;
+    --col-plate-major: 245, 246, 255;
+  
+    /* Vertical rhythm */
+    --vr: 1.5rem;
+    --lh: 1.5;
+    --lsp: calc(var(--lh) - 1); /* line spacing (i.e. leading) */
+    --hlsp: calc(var(--lsp) / 2); /* half line spacing (multiple by font-size to get space above/below elements) */
+    --grid-offset: -.75rem;
+  
+    /* Layout widths */
+    /* Beware of `border-box` sizing when combining these widths with left/right padding */
+    --w-xxsml: 20rem;
+    --w-xsml: 30rem;
+    --w-sml: 40rem;
+    --w-mid: 60rem;
+    --w-lge: 80rem;
+  
+    /* Typography */
+    --ff-normal: 'Source Sans Pro', 'Gill Sans', 'Trebuchet MS', 'Arial', sans-serif;
+    --ff-lead: 'Noto Serif', 'Georgia', 'Times New Roman', serif;
+    --fw-semibold: 600;
+    --fw-bold: 700;
+    --fw-normal: 500;
+    --fw-regular: 400;
+    --fw-light: 300;
+  
+    /* Border radius */
+    --br: 3px;
+    --br-btn: 5px;
+  
+    /* Background color */
+    --col-layout: 203, 232, 239;
+  
+    /* Z-index variables */
+    --z-below: -1;
+    --z-default: 1;
+    --z-navigation: 100;
+    --z-overlay: 500;
+    --z-modal: 1000;
+    --z-liveagent: 10000;
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(.8);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  /**
+   * Breakpoints
+   */
+  @custom-media --bp-max-mobile (max-width: 480px);
+  @custom-media --bp-max-x-mobile (max-width: 599px);
+  
+  @custom-media --bp-tablet (min-width: 481px);
+  @custom-media --bp-x-tablet (min-width: 600px);
+  @custom-media --bp-max-tablet (max-width: 768px);
+  @custom-media --bp-only-tablet (min-width: 481px) and (max-width: 768px);
+  
+  @custom-media --bp-desktop (min-width: 769px);
+  @custom-media --bp-x-desktop (min-width: 900px);
+  @custom-media --bp-max-desktop (max-width: 1098px);
+  @custom-media --bp-only-desktop (min-width: 769px) and (max-width: 1098px);
+  
+  @custom-media --bp-wide (min-width: 1099px);
+  @custom-media --bp-x-wide (min-width: 1250px);
+  @custom-media --bp-xx-wide (min-width: 1360px);
+  @custom-media --bp-xxx-wide (min-width: 1601px);
+  

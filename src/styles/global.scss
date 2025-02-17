@@ -1,0 +1,1295 @@
+/*
+--------------------
+
+CUSTOM
+
+Contents:
+
+Slider component - START
+    Input field - START
+    Slider bar - START
+        Seperates and labels for slider - START
+
+Filter component - START
+    Filter radio buttons - START
+    Filter dropdown list - START
+
+Grid component - START
+    Cell component - START
+        Card component - START
+            Card links section - START
+        Cell bottom border colour change - START
+
+Banner component - START
+    UoM desktop breakpoint - START
+    UoM mobile breakpoint - START
+
+ATAR desktop breakpoint - START (desktop)
+    Slider Component - START (desktop)
+    Filter Component - START (desktop)
+        Filter radio buttons - START (desktop)
+        Filter dropdown list - START (desktop)
+    Card Component - START (desktop)
+
+ATAR mobile breakpoint - START (mobile)
+    Slider Component - START (mobile)
+    Filter Component - START (mobile)
+        Filter radio buttons - START (mobile)
+        Filter dropdown list - START (mobile)
+    Card Component - START (mobile)
+
+Loader - START
+Print Style - START
+
+--------------------
+*/
+
+//   Slider component - START
+
+    //   Input field - START
+
+section {
+  position: relative;
+}
+
+
+.number-section {
+  width: 100%;
+  margin: auto;
+  background-color: $uom-atar-grey-alt;
+  .number-wrapper {
+    @include add-wrapper;
+    .number-input-section {
+      font-family: $font-family-fraunces;
+      width: 100%;
+      display: inline-flex;
+      gap: 2rem;
+      text-align: center;
+    }
+    .number-heading {
+      font-family: $font-family-fraunces;
+      color: $uom-atar-heritage-blue;
+      font-size: 2.5em;
+      font-weight: 400;
+      margin: 0;
+      z-index: 1;
+      align-content: center;
+      margin-left: auto;
+
+      @media screen and (max-width: $breakpoint-small) {
+        font-size: 1.875rem;
+      }
+    }
+  }
+  input {
+    font-family: $font-family-fraunces !important;
+  }
+}
+
+.atar-form input[inputmode=numeric] {
+  width: 145px;
+  height: 80px;
+  border: 1px solid $uom-atar-grey-light;
+  border-radius: 5px;
+  background-color: $uom-atar-white;
+  margin: 0 auto;
+  font-family: 'Noto Serif', san-serif;
+  color: $uom-atar-heritage-blue;
+  font-size: pxToEm(40);
+  text-align: center;
+  font-weight: bold;
+  box-shadow: none;
+  margin-left: 0;
+  &:focus {
+    color: $uom-atar-blue-dark;
+  }
+  &::-webkit-inner-spin-button,
+  &::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+    //   Input field - END
+
+    //   Slider bar - START
+
+.vue-slide-bar-component[data-v-68863e48] {
+  width: 80%;
+  margin: auto;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  &:hover {
+    cursor: pointer;
+  }
+  .vue-slide-bar[data-v-68863e48] {
+    border-radius: 0;
+    border: 1px solid $uom-atar-blue-light;
+    background-color: $uom-atar-white;
+    height: 8px;
+    .vue-slide-bar-tooltip-top[data-v-68863e48] {
+      top: -0.315rem;
+      left: 4.15px;
+      .sliderCircle {
+        height: 45px;
+        width: 45px;
+        background-color: $uom-atar-white-off;
+        border-radius: 50%;
+        display: inline-block;
+        box-shadow: 0 0 12px 0 $uom-atar-grey-light;
+        transition: all 0.2s ease-in-out;
+        z-index: 5;
+        &:hover,
+        &:active,
+        &:focus {
+          box-shadow: 0 0 12px 0 $uom-atar-grey;
+          background-color: $uom-atar-white;
+          span {
+            background-color: $uom-atar-blue-dark;
+          }
+        }
+        span {
+          display: block;
+          position: absolute;
+          height: 2px;
+          width: 20px;
+          background-color: $uom-atar-blue-light;
+          border-radius: 9px;
+          opacity: 1;
+          top: 12px;
+          left: 65%;
+          transition: background-color 0.2s ease-in-out;
+          &:nth-child(1) {
+            margin-top: 20%;
+          }
+          &:nth-child(2) {
+            margin-top: 50%;
+          }
+          &:nth-child(3) {
+            margin-top: 80%;
+          }
+        }
+      }
+    }
+    .vue-slide-bar-process[data-v-68863e48] {
+      background: $uom-atar-heritage-blue;
+      border-radius: 0;
+    }
+  }
+}
+
+        //   Seperates and labels for slider - START
+
+.vue-slide-bar-component[data-v-68863e48] {
+  .vue-slide-bar-range[data-v-68863e48] {
+    padding: 0;
+    .vue-slide-bar-separate[data-v-68863e48] {
+      width: 1px;
+      height: 10px;
+      color: $uom-atar-blue-dark;
+      background-color: $uom-atar-blue-light;
+      .vue-slide-bar-separate-text[data-v-68863e48] {
+        top: 28px;
+      }
+      &:nth-child(odd) {
+        height: 25px;
+      }
+    }
+  }
+}
+        //   Seperates and labels for slider - END
+
+    //   Slider bar - END
+
+//   Slider component - END
+
+//   Filter component - START
+
+
+
+
+
+.filter-radio-section {
+  // width: 1050px;
+
+
+
+  fieldset {
+    border: none;
+    ul {
+
+      li {
+        label,
+        input {
+          display: inline !important;
+          vertical-align: middle;
+        }
+    }
+    }
+  }
+}
+
+
+.filter-section {
+  @include sq-flex-box;
+  width: 100%;
+  background-color: $uom-atar-pathways-light-sage;
+  border-width: 1px 0 1px 0;
+  flex-direction: column;
+  .filter-dropdown-wrapper {
+    width: 34%;
+  }
+
+
+  .filter-button-wrapper {
+    display: none;
+    margin: 0 1.5rem 0;
+    text-align: center;
+  }
+
+  .filter-wrapper {
+    @include sq-flex-box;
+    @include add-wrapper;
+    width:100%;
+
+    span.intro-text {
+      // width:20%;
+      margin: 0 10px 0 0;
+    }
+
+    //   Filter radio buttons - START
+
+    .filter-radio-section {
+      @include list-reset;
+      display: flex;
+      flex-wrap: wrap;
+      width: 66%;
+      margin-right: 12px;
+      &:first-child {
+        margin-left:0;
+      }
+      &:last-child {
+        margin-right:0;
+      }
+      span {
+        font-weight: bold;
+        font-size: 1.125rem;
+      }
+      fieldset {
+        margin: 0;
+        // width:100%;
+        ul {
+          @include list-reset;
+        }
+        li {
+          margin: 0;
+          width: auto;
+          // display: inline-block;
+          user-select: none;
+          &:nth-child(1) {
+            margin-right: 1rem;
+          }
+          input {
+            appearance: radio;
+            // margin-right: 0.5rem;
+            margin-right: 3px;
+            &:hover {
+              cursor: pointer;
+            }
+          }
+          label {
+            vertical-align: middle;
+            font-weight: normal;
+            &:hover {
+              cursor: pointer;
+            }
+          }
+        }
+      }
+    }
+
+    //   Filter radio buttons - END
+
+    //   Filter dropdown list - START
+
+    .filter-dropdown-section {
+      display: flex;
+      flex-wrap: wrap;
+      width: 50%;
+      margin: 0 12px;
+      &:first-child {
+        margin-left:0;
+      }
+      &:last-child {
+        margin-right:0;
+      }
+      label {
+        font-weight: bold;
+        font-size: pxToEm(18);
+      }
+      fieldset {
+        margin: auto auto auto 0;
+        width:100%;
+        .styled-select {
+          width:100%;
+          display: inline-block;
+          border: 1px solid #D8D8D8;
+          border-radius: 3px;
+          &:before {
+            content: '';
+            position: absolute;
+            right: 2.8rem;
+            height: 100%;
+            border-right: 1px solid #D8D8D8;
+          }
+          &:after {
+            top: 0.95rem;
+            right: 1.13rem;
+          }
+          select {
+            margin: 0;
+            font-weight: normal;
+          }
+        }
+      }
+    }
+
+    //   Filter dropdown list - END
+
+  }
+}
+.atar-form {
+  button.form-button {
+    position:absolute;
+    padding: 0.2rem;
+    margin: 0 auto;
+    width:100%;
+    border-radius:0;
+    border:2px solid rgb(9,65,131);
+    background-color: rgb(9,65,131);
+    color: $uom-atar-white;
+    text-align:center;
+    clip: rect(0,0,0,0);
+    height:1px;
+    overflow:hidden;
+
+    &:focus {
+      clip: auto;
+      height:auto;
+      overflow:visible;
+      position:absolute;
+    }
+  }
+}
+
+.aria-links {
+  position:absolute;
+  padding: 0.2rem;
+  margin: 0 auto;
+  width:1px;
+  border-radius:0;
+  color: $uom-atar-white;
+  text-align:center;
+  clip: rect(0,0,0,0);
+  height:1px;
+  overflow:hidden;
+  color:inherit;
+
+  &:focus {
+    clip: auto;
+    height:auto;
+    overflow:visible;
+    position:static;
+  }
+}
+
+//   Filter component - END
+
+//   Grid component - START
+#atar-table-results {
+  margin-top: 3rem;
+}
+
+.toggle-view__wrapper {
+  position: relative;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  height: 50px;
+
+    .toggle-view__inner {
+      width: 100%;
+
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      // top: 10px;
+      // right: 10px;
+
+      .button__card-view,
+      .button__table-view {
+        opacity: 0.5;
+        &.active {
+          opacity: 0.8;
+        }
+        transition: all 0.3s;
+
+        &:hover {
+          cursor: pointer;
+          opacity: 1;
+          svg g {
+            fill: red;
+          }
+        }
+
+        width: 40px;
+        height: 40px;
+        svg {
+          width: 40px;
+          height: 40px;
+            g {
+              fill: currentColor;
+          }
+      }
+    }
+  }
+
+}
+
+#app-version {
+  color: #999;
+  font-size: 0.8rem;
+  margin-top:2rem;
+}
+
+.course-list-table {
+  padding-top: 15px;
+  width: 100%;
+}
+
+#atar-calculator {
+  #range-criteria-table-results {
+    .cell--desk-3of4,
+    .cell--desk-1of4 {
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
+    }
+    .course-list-table {
+      padding-top: 15px;
+      width: 100%;
+    }
+    .rhs-card {
+      background-color: #f2f5f9;
+      border: 1px solid #0941832e;
+
+      width: 100%;
+      padding: 1.5rem;
+
+      .btn {
+        width: 100%;
+      }
+    }
+  }
+
+
+.section-wrapper {
+
+  .section:nth-child(even) {
+    display: flow-root;
+    background-color: #f7f7f7;
+  }
+}
+
+#chancellor-banner-section {
+  margin-top: 2rem;
+}
+
+.focus-wrapper {
+  .section__inner {
+    //margin-top: 2rem;
+    padding: 0;
+  }
+}
+.chancellor-banner {
+  // height: 25rem;
+  h2,p,a {
+    text-align: center;
+  }
+  h2 {
+    margin-top: 4rem;
+  }
+
+  .btn {
+    width: auto;
+    margin: 0 auto;
+    background-color: #094183;
+  }
+}
+
+.still-have-questions {
+
+  // h2,p,a {
+  //   color: white;
+  // }
+  .btn {
+    width: auto;
+    margin: 0 auto 0 0
+  }
+}
+
+.grid.card-view {
+  padding: 0 0.75rem;
+  .cell--desk-1of2:first-child {
+    padding-right: 0.75rem;
+  }
+}
+
+
+.card-course__name {
+    font-size: 0.9rem;
+}
+
+#gdp-card-results {
+  margin-bottom: 1.5rem;
+}
+
+    //   Cell component - START
+#atar-calculator-results,
+#range-card-results,
+#gdp-card-results {
+
+  .cell {
+      //   Card component - START
+
+    .card {
+      @include sq-transition(box-shadow 0.2s ease-in-out);
+      background-color: $uom-atar-white;
+      border: 1px solid #0941832e;
+      //min-height:525px;
+      &:hover,
+      &:focus{
+        box-shadow: 0 -1px 15px $uom-atar-grey;
+      }
+      .push-icon {
+          .link-heading {
+            display: block;
+          }
+
+          .link-subheading {
+            font-size: 0.8rem;
+          }
+      }
+
+      .card__icon-info svg {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      .card-links-link .card__icon-info {
+        margin-left: -6px;
+      }
+
+      .card__inner {
+        color: $uom-atar-blue-dark;
+        padding: 1.4rem 1.875rem 1.4rem 1.875rem;
+        position: relative;
+        height: 100%;
+        text-decoration: none;
+        .text-italic {
+          font-size: 1rem;
+
+          &.secondary-atar {
+            color: $uom-atar-heritage-blue;
+            font-size: 0.8rem;
+          }
+        }
+
+
+        .card__meta {
+          margin: 0;
+          font-weight: normal;
+          color: $uom-atar-heritage-blue;
+        }
+        .card-meta-title {
+          margin: 0 0 -1.5rem 0;
+        }
+        .card-meta-title:empty~.card__header {
+          padding-top: 1.5rem;
+        }
+        .card-meta-title:empty~.interest-item__icon {
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+        .interest-item__icon {
+          color: $uom-atar-green;
+          font-size: pxToEm(45);
+          line-height: 0;
+          width: auto;
+          // text-align: right;
+          min-height: 24px;
+          .push-icon__icon {
+            margin-left: 0;
+            right:7%;
+            position: absolute;
+          }
+        }
+
+        .card__header {
+          color: $uom-atar-text-link-blue;
+          margin-top: 27px;
+          margin-bottom: 1.2rem;
+          font-family: 'Source Sans Pro', san-serif;
+          line-height: 35px;
+          min-height: 70px;
+          width: 100%;
+        }
+
+        .card__header-gdp {
+          font-size: 1.3rem;
+          line-height: 30px;
+          min-height: 30px;
+          margin-top: 2rem;
+          margin-bottom: 0;
+        }
+
+        .card__header-gdp + h4 {
+          margin-top: 0rem;
+        }
+
+
+
+        .card__header.with-sub {
+          min-height: 35px;
+        }
+        .card__sub-heading {
+          margin-top: -50px;
+        }
+      }
+      .card-body-large {
+        font-size: 1.125rem;
+        color: $uom-atar-heritage-blue;
+        .card-body-extraLarge {
+          font-size: 2.5rem;
+          font-weight: bold;
+          margin-right: 0.435rem;
+        }
+        .card-meta-border {
+          border-bottom: 1px solid $uom-atar-blue-light;
+          display: block;
+          padding-top: 0.625rem;
+        }
+        .card-body-extraLarge:empty {
+          display: none;
+        }
+        .card-body-extraLarge:empty~.card-meta-border {
+          display: none;
+        }
+        span {
+          color: $uom-atar-heritage-blue;
+        }
+      }
+      .card-meta-lowest {
+        font-size: pxToEm(12);
+        font-weight: normal;
+        margin-top: 0.625rem;
+      }
+      .card-summary {
+        font-weight: normal;
+        padding: 1.56rem 0 0 0;
+        margin-top: auto;
+        margin-bottom: 0;
+        &:empty {
+          display: none;
+        }
+      }
+
+            //   Card links section - START
+
+    .card-links-section {
+      width: 100%;
+      bottom: 0;
+      padding: 1.56rem 1.875rem 0 1.875rem;
+      margin-top: auto;
+      background-color: $uom-atar-cyan;
+      z-index: 1;
+        .card-meta-title {
+          margin-bottom: 0.5rem;
+        }
+        .card-links-list {
+          list-style-type: none;
+          padding-left: 0;
+          .card-links-link {
+            position: relative;
+            margin: 0;
+            .btn {
+              width: 100%;
+              &:hover {
+                background-color: #094183;
+                color: white;
+                cursor: pointer;
+
+              }
+            }
+            &__icon {
+              position: absolute;
+              right: 0;
+              color: #094183;
+            }
+            a {
+              text-decoration: none;
+              font-weight: normal;
+              color: $uom-atar-blue-dark;
+              padding-left: 0.4rem;
+              &:hover,
+              &:focus {
+                text-decoration: underline;
+              }
+            }
+          }
+        }
+      }
+
+            //   Card links section - END
+    }
+
+        //   Card component - END
+
+        //   Cell bottom border colour change - START
+
+    .card {
+      border-color: $uom-atar-border !important
+    }
+    .badge-pathways {
+      border-color: $uom-atar-pathways !important;
+      .card__inner {
+        display:flex;
+        flex-flow: column;
+        height: 100%;
+        /* To make the header text wrap earlier before pathway SVG */
+        .card__header {
+          width: 92%;
+        }
+      }
+    }
+
+        //   Cell bottom border colour change - END
+  }
+
+} // END #atar-calculator-results
+
+    //   Cell component - END
+
+  select,
+  input,
+  input+label {
+    @include sq-transition(all .1s ease);
+    &:disabled,
+    &:disabled+label {
+      @include sq-opacity(80);
+    }
+  }
+}
+
+//   Grid component - END
+
+//   Banner component - START
+
+.course-header__type {
+  font-size: pxToEm(40);
+  margin: 0 0 1.5rem;
+  z-index: 1;
+}
+
+.course-header__title {
+  margin: 0 0 6.5rem;
+  width: 60%;
+  font-size: pxToEm(20);
+  font-weight:bold;
+}
+
+.course-header__stat-label {
+  font-weight: normal;
+  z-index: 1;
+  width: 60%;
+}
+
+.table-button-wrapper {
+  display: flex;
+}
+
+.table--white {
+ tbody {
+    background-color: $uom-atar-white;
+  }
+}
+
+    //   UoM desktop breakpoint - START
+
+@media (min-width: $breakpoint-large) {
+
+  .col-width-a {
+    width: 50%;
+  }
+
+  .col-width-b {
+    width: 15%;
+  }
+
+  .course-header__title {
+    width: 50%;
+  }
+  .course-header__stat-label {
+    width: 50%;
+  }
+  .course-header__inner {
+    padding-right: 0;
+  }
+}
+
+    //   UoM desktop breakpoint - END
+
+    //   UoM mobile breakpoint - START
+
+@media (max-width: $breakpoint-large) {
+
+  .col-width-a {
+    width: 45%;
+  }
+
+  .col-width-b {
+    width: 15%;
+  }
+}
+
+@media (max-width: $breakpoint-small) {
+
+  .table-button-wrapper {
+    flex-direction: column;
+    justify-content: space-between;
+    .btn--xsml {
+      margin: 0;
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  table td,
+  table th {
+    font-size: 0.8rem;
+    .btn--xsml {
+      padding: .375rem;
+    }
+  }
+  .course-header__type {
+    margin: 0 0 1rem;
+  }
+  .course-header__title {
+    margin: 0 0 1.6rem;
+    width: 100%;
+  }
+  .course-header__stat-label {
+    width: 100%;
+  }
+}
+
+    //   UoM mobile breakpoint - End
+
+//   Banner component - END
+
+@media (min-width: 885px ) {
+  .filter-radio-section {
+
+    .filter-stack-label {
+      font-size: 1.125rem;
+      display: block;
+    }
+  }
+
+
+  .filter-dropdown-wrapper {
+    .filter-stack-label {
+      font-size: 1.125rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      color: $uom-atar-heritage-blue;
+    }
+  }
+}
+
+@media (max-width: 885px ) {
+
+  .filter-section {
+    .filter-wrapper {
+
+      .filter-radio-section {
+        width: 50%;
+        .filter-stack-label {
+          display: none;
+        }
+      }
+
+      .filter-dropdown-wrapper {
+        .filter-stack-label {
+          font-size: 1.125rem;
+          font-weight: bold;
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+  }
+}
+
+
+@media (max-width: 615px ) {
+  .filter-section {
+    .filter-wrapper {
+      .filter-radio-section fieldset ul li {
+        display: inline;
+      }
+      .filter-dropdown-wrapper {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media (max-width: 320px ) {
+  .filter-section {
+    .filter-wrapper {
+      .filter-radio-section fieldset ul li {
+        display: block;
+      }
+      .filter-dropdown-wrapper {
+        width: 100%;
+      }
+    }
+  }
+}
+//   ATAR desktop breakpoint - START (desktop)
+
+@media (max-width: $atar-breakpoint-large) {
+  table td,
+  table th {
+
+    .btn--xsml {
+      padding: .375rem;
+    }
+  }
+
+  .filter-section {
+    .filter-dropdown-wrapper {
+      width: 42%;
+    }
+  }
+
+  .filter-radio-section {
+    fieldset {
+      ul {
+        min-width: 200px;
+        li {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: $atar-breakpoint-large) {
+  .filter-radio-section {
+    fieldset {
+      ul {
+        li {
+          display: inline;
+        }
+      }
+    }
+  }
+
+
+    //   Slider Component - START (desktop)
+
+  .vue-slide-bar-component[data-v-68863e48] {
+    width: 60%;
+  }
+
+    //   Slider Component - END (desktop)
+
+    //   Filter Component - START (desktop)
+
+  .filter-section {
+
+
+    .filter-wrapper {
+    //   Filter radio buttons - START (desktop)
+
+      .filter-radio-section {
+        @include sq-flex-box;
+        // width: 33%;
+
+        width: 66%;
+        min-width: 640px;
+        padding-top: 6px;
+        &:first-child {
+          margin-right: 10px;
+        }
+        &:last-child {
+          margin-left: 10px;
+        }
+        span {
+          font-weight: bold;
+        }
+
+        span.filter-stack-label {
+          font-weight: bold;
+        }
+
+        fieldset {
+          margin: 0 10px 0 0;
+          width: auto;
+          li {
+            margin: 0;
+            width: 100%;
+          }
+        }
+      }
+
+        //   Filter radio buttons - END (desktop)
+
+        //   Filter dropdown list - START (desktop)
+
+      .filter-dropdown-section {
+        @include sq-flex-box;
+        width: 66.6%;
+        padding: 0;
+        &:first-child {
+          margin-right: 10px;
+        }
+        &:last-child {
+          margin-left: 10px;
+        }
+        label {
+          font-weight: bold;
+          width:auto;
+          font-size: pxToEm(18);
+          margin: auto auto auto 0;
+        }
+        fieldset {
+          width:49%;
+          margin: auto 0 auto auto;
+          .styled-select {
+            width:100%;
+            select {
+              padding: 0.9rem 2.875rem 0.9rem .75rem;
+            }
+            &:after {
+              top: 1.3rem;
+              right: 1.13rem;
+            }
+          }
+        }
+      }
+
+        //   Filter dropdown list - END (desktop)
+
+    }
+  }
+    //   Filter Component - END (desktop)
+}
+
+//   ATAR desktop breakpoint - END (desktop)
+
+//   ATAR mobile breakpoint - START (mobile)
+
+@media (max-width: $atar-breakpoint-small) {
+
+    //   Slider Component - START (mobile)
+
+  .vue-slide-bar-component[data-v-68863e48] {
+    .vue-slide-bar-range[data-v-68863e48] {
+      .vue-slide-bar-separate[data-v-68863e48] {
+        &:nth-child(odd) {
+          height: 10px;
+        }
+        &:nth-child(5n+1):nth-child(odd) {
+          height: 25px;
+        }
+        &:nth-child(5n+6):nth-child(even) {
+          height: 20px;
+        }
+      }
+    }
+  }
+
+    //   Slider Component - END (mobile)
+
+    //   Filter Component - START (mobile)
+
+  .filter-section {
+    display: block;
+    width: 100%;
+    .filter-wrapper {
+      @include add-wrapper;
+      display: block;
+
+        //   Filter radio buttons - START (mobile)
+
+      .filter-radio-section {
+        display: block;
+        width: 100%;
+        margin-bottom: 1.5rem;
+        padding: 0;
+        border:none;
+        legend {
+          margin:0;
+          padding:0;
+        }
+        ul {
+          padding:0;
+          width:100%;
+        }
+        input {
+          vertical-align: middle;
+        }
+        li:nth-child(1) {
+          margin-right: 2rem;
+        }
+      }
+
+        //   Filter radio buttons - END (mobile)
+
+        //   Filter dropdown list - START (mobile)
+
+      .filter-dropdown-section {
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin-left: 0;
+        border:none;
+        legend {
+          margin:0;
+          padding:0;
+        }
+        .styled-select {
+          margin:0;
+          width:100%;
+        }
+      }
+
+        //   Filter dropdown list - END (mobile)
+    }
+  }
+
+    //   Filter Component - END (mobile)
+
+    //   Card Component - START (mobile)
+
+  #atar-calculator .cell {
+    width: 100%;
+    min-height: auto;
+    .card {
+      min-height:200px;
+    }
+  }
+
+    //   Card Component - END (mobile)
+}
+
+//   ATAR mobile breakpoint - END (mobile)
+
+//   Loader - START
+
+.lds-ellipsis {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  margin-top: 1.5em;
+}
+
+.lds-ellipsis div {
+  position: absolute;
+  top: 27px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: $uom-atar-blue-dark;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+
+.lds-ellipsis div:nth-child(1) {
+  left: 6px;
+  animation: lds-ellipsis1 0.6s infinite;
+}
+
+.lds-ellipsis div:nth-child(2) {
+  left: 6px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+
+.lds-ellipsis div:nth-child(3) {
+  left: 26px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+
+.lds-ellipsis div:nth-child(4) {
+  left: 45px;
+  animation: lds-ellipsis3 0.6s infinite;
+}
+
+@keyframes lds-ellipsis1 {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes lds-ellipsis3 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+
+@keyframes lds-ellipsis2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(19px, 0);
+  }
+}
+
+//   Loader - END
+
+//   Print Style - START
+
+@media print {
+  #atar-calculator {
+    .cell {
+    width: 100%;
+    height:400px;
+    background-color:#000;
+      .card {
+        .card__inner {
+          .card__header {
+            width:250px;
+            font-size:20px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.study-option-btn {
+  background-color: $uom-atar-sage;
+  .push-icon {
+    color: $uom-atar-heritage-blue;
+  }
+}
+
+//   Print Style - END

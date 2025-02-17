@@ -1,0 +1,212 @@
+:root {
+    --col-blue-mid-2: 64, 116, 178;
+    --col-navy-dark: 9, 65, 131;
+    --col-brand: 9, 65, 131;
+    --col-emerald-mid-2: 89, 177, 127;
+    --col-yellow-mid-2: 236, 174, 101;
+    --col-yellow-mid-1: 255, 220, 162;
+    --col-yellow-light: 253, 242, 223;
+    --col-emerald-dark: 34, 118, 95;
+    --col-emerald-mid-2: 89, 177, 127;
+    --col-emerald-mid-1: 152, 214, 195;
+    --col-emerald-light: 213, 242, 230;
+    --col-blue-dark: 53, 101, 158;
+    --col-blue-mid-2: 64, 116, 178;
+    --col-blue-mid-1: 173, 205, 240;
+    --col-blue-light: 205, 230, 255;
+    --col-orange-dark: 185, 61, 28;
+    --col-orange-mid-2: 231, 112, 82;
+    --col-orange-mid-1: 255, 164, 120;
+    --col-orange-light: 255, 220, 186;
+    --col-green-dark: 70, 119, 73;
+    --col-green-mid-2: 161, 209, 114;
+    --col-green-mid-1: 218, 226, 153;
+    --col-green-light: 243, 248, 215;
+    --col-purple-dark: 87, 96, 164;
+    --col-purple-mid-2: 114, 131, 191;
+    --col-purple-mid-1: 176, 188, 225;
+    --col-purple-light: 222, 224, 248;
+    --col-pink-dark: 152, 65, 64;
+    --col-pink-mid-2: 238, 136, 137;
+    --col-pink-mid-1: 255, 189, 204;
+    --col-pink-light: 255, 223, 230;
+    --col-teal-mid-1: 124, 189, 206;
+    --fw-bold: 700;
+    --fw-normal: 500;
+    --fw-regular: 400;
+    --fw-light: 300;
+
+    --vr: 1.5rem;
+}
+
+
+$col-blue-mid-2: rgb(64, 116, 178);
+$col-navy-dark: rgb(9, 65, 131);
+$col-brand: rgb(9, 65, 131);
+$col-emerald-mid-2: rgb(89, 177, 127);
+
+$col-yellow-mid-2: rgb( 236, 174, 101);
+$col-yellow-mid-1: rgb( 255, 220, 162);
+$col-yellow-light: rgb( 253, 242, 223);
+$col-emerald-dark: rgb( 34, 118, 95);
+$col-emerald-mid-2: rgb( 89, 177, 127);
+$col-emerald-mid-1: rgb( 152, 214, 195);
+$col-emerald-light: rgb( 213, 242, 230);
+$col-blue-dark: rgb( 53, 101, 158);
+$col-blue-mid-2: rgb( 64, 116, 178);
+$col-blue-mid-1: rgb( 173, 205, 240);
+$col-blue-light: rgb( 205, 230, 255);
+$col-orange-dark: rgb( 185, 61, 28);
+$col-orange-mid-2: rgb( 231, 112, 82);
+$col-orange-mid-1: rgb( 255, 164, 120);
+$col-orange-light: rgb( 255, 220, 186);
+$col-green-dark: rgb( 70, 119, 73);
+$col-green-mid-2: rgb( 161, 209, 114);
+$col-green-mid-1: rgb( 218, 226, 153);
+$col-green-light: rgb( 243, 248, 215);
+$col-purple-dark: rgb( 87, 96, 164);
+$col-purple-mid-2: rgb( 114, 131, 191);
+$col-purple-mid-1: rgb( 176, 188, 225);
+$col-purple-light: rgb( 222, 224, 248);
+$col-pink-dark: rgb( 152, 65, 64);
+$col-pink-mid-2: rgb( 238, 136, 137);
+$col-pink-mid-1: rgb( 255, 189, 204);
+$col-pink-light: rgb( 255, 223, 230);
+$col-teal-mid-1: rgb(124, 189, 206);
+
+$fw-bold: 700;
+$fw-normal: 500;
+$fw-regular: 400;
+$fw-light: 300;
+
+$vr: 1.5rem;
+
+
+
+
+.interest-item {
+    color: $col-brand;
+    background: white;
+    border-left: 7px solid $col-blue-mid-2;
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    padding: 1rem;
+    text-decoration: none;
+    position: relative;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .25);
+    transform: translateY(0);
+    transition: all .3s cubic-bezier(.165, .84, .44, 1);
+  
+    &:hover {
+      box-shadow: 0 2px 6px rgba(0, 0, 0, .5);
+      transition: all .3s cubic-bezier(.165, .84, .44, 1);
+    }
+  
+    &:visited,
+    &:active {
+        color: $col-brand;
+    }
+  
+    &--image {
+      color: #fff !important;
+      background-size: cover;
+      &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, .5);
+      }
+    }
+  
+    &__name {
+      font-size: 1rem;
+      font-weight: $fw-bold;
+      font-family: 'Source Sans Pro', 'Gill Sans', 'Trebuchet MS', 'Arial', sans-serif;
+      margin-bottom: .5rem;
+      line-height: 1.2;
+    }
+  
+    &__type {
+      font-size: .8rem;
+      font-weight: $fw-regular;
+      margin-bottom: 0;
+    }
+  
+    &__icon &:not(.interest-item--tight) {
+      position: absolute;
+      right: 1rem;
+      margin-top: -.5rem;
+  
+      svg {
+        fill: white;
+        width: 1.3rem;
+        height: 1.3rem;
+        background-color: rgb(255, 220, 162);
+        border: 3px solid rgb(255, 220, 162);
+        border-radius: 50%;
+      }
+    }
+  
+    &--tight {
+      margin: .25rem;
+      padding: .75rem 1rem;
+  
+      .interest-item__name {
+        margin-bottom: 0;
+      }
+    }
+  
+    &--pathway {
+      padding-right: 4rem;
+      border-left-color: $col-emerald-mid-2;
+  
+      .interest-item__icon {
+        position: absolute;
+        right: calc($vr / 2);
+        margin-top: -1rem;
+        top: 50%;
+        color: $col-emerald-mid-2;
+  
+        .push-icon__icon {
+          width: 1rem;
+          height: 1rem;
+        }
+      }
+    }
+  
+    &--bachelor {
+      border-color: $col-teal-mid-1;
+    }
+    &--master {
+      border-color: $col-orange-mid-1;
+    }
+    &--doctor {
+      border-color: $col-orange-mid-2;
+    }
+    &--graddip {
+      border-color: $col-emerald-mid-2;
+    }
+    &--gradcert {
+      border-color: $col-yellow-mid-2;
+    }
+    &--diploma {
+      border-color: $col-green-mid-2;
+    }
+    &--short {
+      border-color: $col-pink-mid-1;
+    }
+  }
+  
+  .interest--tight {
+    .interest-item {
+      padding: .75rem 1rem;
+  
+      &__name {
+        margin-bottom: 0;
+      }
+    }
+  }

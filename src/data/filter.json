@@ -1,0 +1,54 @@
+[
+    {
+        "value": "all",
+        "label": "All"
+    },
+    {
+        "value": "61102",
+        "label": "Architecture, building, planning and design"
+    },
+    {
+        "value": "61103",
+        "label": "Art, humanities and social sciences"
+    },
+    {
+        "value": "61104",
+        "label": "Business and economics"
+    },
+    {
+        "value": "60462",
+        "label": "Education"
+    },
+    {
+        "value": "60463",
+        "label": "Engineering"
+    },
+    {
+        "value": "60464",
+        "label": "Environment"
+    },
+    {
+        "value": "60465",
+        "label": "Health"
+    },
+    {
+        "value": "60466",
+        "label": "Information Technology and Computer Science"
+    },
+    {
+        "value": "60468",
+        "label": "Law"
+    },
+    {
+        "value": "60469",
+        "label": "Music and visual and performing arts"
+    },
+    {
+        "value": "60470",
+        "label": "Science"
+    },
+    {
+        "value": "60471",
+        "label": "Veterinary, agricultural and food sciences"
+    }
+]

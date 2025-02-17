@@ -1,0 +1,1990 @@
+[
+  {
+    "name": "Bachelor of Arts (Extended)",
+    "score": {
+      "indigenous": {
+        "number": "50.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts-extended/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "arts",
+    "filter": "all, 61103, 61104, 60464, 60465, 60469, 60470"
+  },
+  {
+    "name": "Bachelor of Science (Extended)",
+    "score": {
+      "indigenous": {
+        "number": "50.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "science",
+    "filter": "all, 60470, 61102, 61103, 60462, 60463, 60464, 60465, 60466, 60471"
+  },
+  {
+    "name": "Bachelor of Agriculture",
+    "desc": "Guaranteed ATAR (domestic): 72.00\r\nGuaranteed ATAR (international): 70.00",
+    "score": {
+      "ug": {
+        "number": "70.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/?ref=cop"
+      },
+      "international": {
+        "number": "68.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "70.00",
+    "international": "68.00",
+    "domesticGuarantee": "72.00",
+    "internationalGuarantee": "70.00",
+    "previousYearDom": "70.25",
+    "previousYearInt": "70.25",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "agriculture",
+    "filter": "all, 60471, 61104, 60464, 60468"
+  },
+  {
+    "name": "Bachelor of Arts",
+    "score": {
+      "ug": {
+        "number": "85.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/?ref=cop"
+      },
+      "international": {
+        "number": "83.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/?ref=cop"
+      },
+      "access": {
+        "number": "78.00",
+        "url": "https://study.unimelb.edu.au/how-to-apply/special-entry-access-schemes/access-melbourne-undergraduate/guaranteed-entry-scores?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "85.00",
+    "international": "83.00",
+    "domesticGuarantee": "88.00",
+    "internationalGuarantee": "85.00",
+    "previousYearDom": "87.65",
+    "previousYearInt": "87.65",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "arts",
+    "filter": "all, 61103, 61104, 60462, 60464, 60465, 60469, 60470, 60468"
+  },
+  {
+    "name": "Bachelor of Biomedicine",
+    "score": {
+      "ug": {
+        "number": "94.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/?ref=cop"
+      },
+      "international": {
+        "number": "93.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/?ref=cop"
+      },
+      "access": {
+        "number": "90.00",
+        "url": "https://study.unimelb.edu.au/how-to-apply/special-entry-access-schemes/access-melbourne-undergraduate/guaranteed-entry-scores?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "94.00",
+    "international": "93.00",
+    "domesticGuarantee": "95.00",
+    "internationalGuarantee": "95.00",
+    "previousYearDom": "911.0",
+    "previousYearInt": "94.0",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "biomedicine",
+    "filter": "all, 60470, 60463, 60465, 60466, 60468"
+  },
+  {
+    "name": "Bachelor of Commerce",
+    "score": {
+      "ug": {
+        "number": "93.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/?ref=cop"
+      },
+      "international": {
+        "number": "92.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/?ref=cop"
+      },
+      "access": {
+        "number": "86.00",
+        "url": "https://study.unimelb.edu.au/how-to-apply/special-entry-access-schemes/access-melbourne-undergraduate/guaranteed-entry-scores?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "93.00",
+    "international": "92.00",
+    "domesticGuarantee": "95.00",
+    "internationalGuarantee": "94.00",
+    "previousYearDom": "93.00",
+    "previousYearInt": "93.00",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "commerce",
+    "filter": "all, 61104, 61103, 60470, 60468, 60463"
+  },
+  {
+    "name": "Bachelor of Design",
+    "score": {
+      "ug": {
+        "number": "85.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/?ref=cop"
+      },
+      "international": {
+        "number": "83.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/?ref=cop"
+      },
+      "access": {
+        "number": "78.00",
+        "url": "https://study.unimelb.edu.au/how-to-apply/special-entry-access-schemes/access-melbourne-undergraduate/guaranteed-entry-scores?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "85.00",
+    "international": "83.00",
+    "domesticGuarantee": "88.00",
+    "internationalGuarantee": "85.00",
+    "previousYearDom": "86.55",
+    "previousYearInt": "86.55",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "design",
+    "filter": "all, 60464, 61102, 60462, 60463, 60466, 60469, 60470, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Acting)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Animation)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Dance)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Film and Television)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Music Theatre)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Production)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 61102, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Screenwriting)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Theatre)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Fine Arts (Visual Art)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "fine",
+    "filter": "all, 60469, 60468"
+  },
+  {
+    "name": "Bachelor of Music (Interactive Composition)",
+    "displayName": "Bachelor of Music",
+    "displaySubheading": "(Interactive Composition)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.85",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "music",
+    "filter": "all, 60469"
+  },
+  {
+    "name": "Bachelor of Music (Jazz and Improvisation)",
+    "displayName": "Bachelor of Music",
+    "displaySubheading": "(Jazz and Improvisation)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.85",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "music",
+    "filter": "all, 60469"
+  },
+  {
+    "name": "Bachelor of Music (Performance/ Composition/ Musicology/ Ethnomusicology Specialisation)",
+    "displayName": "Bachelor of Music",
+    "displaySubheading": "(Performance/ Composition/ Musicology/ Ethnomusicology Specialisation)",
+    "score": {
+      "ug": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance-composition-musicology-ethnomusicology-specialisation/?ref=cop"
+      },
+      "international": {
+        "number": "",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance-composition-musicology-ethnomusicology-specialisation/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.85",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": true,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "",
+    "international": "",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "music",
+    "filter": "all, 60469"
+  },
+  {
+    "name": "Bachelor of Oral Health",
+    "score": {
+      "ug": {
+        "number": "85.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/?ref=cop"
+      },
+      "international": {
+        "number": "85.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "85.00",
+    "international": "85.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "86.2",
+    "previousYearInt": "86.2",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "oral",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Bachelor of Science",
+    "score": {
+      "ug": {
+        "number": "85.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/?ref=cop"
+      },
+      "international": {
+        "number": "83.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/?ref=cop"
+      },
+      "access": {
+        "number": "78.00",
+        "url": "https://study.unimelb.edu.au/how-to-apply/special-entry-access-schemes/access-melbourne-undergraduate/guaranteed-entry-scores?ref=cop"
+      },
+      "mcs": {
+        "number": "99.90",
+        "url": "https://scholarships.unimelb.edu.au/about-scholarships/melbourne-chancellors-scholarship?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "85.00",
+    "international": "83.00",
+    "domesticGuarantee": "88.00",
+    "internationalGuarantee": "85.00",
+    "previousYearDom": "85.00",
+    "previousYearInt": "85.00",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "science",
+    "filter": "all, 60470, 61102, 61103, 60462, 60463, 60464, 60465, 60466, 60471, 60468"
+  },
+  {
+    "name": "Diploma in General Studies",
+    "score": {
+      "ug": {
+        "number": "50.00",
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/diploma-in-general-studies/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": false,
+    "domestic": "50.00",
+    "international": "null",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "50.20",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "general",
+    "filter": "all, 60471, 61102, 61104, 60465, 60470"
+  },
+  {
+    "name": "Bachelor of Design / Master of Architecture",
+    "score": {
+      "gdp": {
+        "number": "98.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/architect/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "98.00",
+    "international": "98.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Architecture",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/master-of-architecture?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/?ref=cop",
+    "year": "2021",
+    "sort": "architecture",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Bachelor of Design / Master of Construction Management",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/construction-manager/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Construction",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/?ref=cop",
+    "year": "2021",
+    "sort": "construction",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Bachelor of Science / Master of Data Science",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/study-with-us/understand-your-undergraduate-to-graduate-degree-pathways/packages?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Data Science",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/?ref=cop",
+    "year": "2021",
+    "sort": "data",
+    "filter": "all, 60466, 60470"
+  },
+  {
+    "name": "Bachelor of Biomedicine / Doctor of Dental Surgery",
+    "score": {
+      "gdp": {
+        "number": "99.85",
+        "url": "https://study.unimelb.edu.au/find/pathways/dentist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.85",
+    "international": "99.85",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Dental Surgery",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-dental-surgery/?ref=cop",
+    "ugName": "Bachelor of Biomedicine",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/?ref=cop",
+    "year": "2021",
+    "sort": "dentistry",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Bachelor of Science / Doctor of Dental Surgery",
+    "score": {
+      "gdp": {
+        "number": "99.85",
+        "url": "https://study.unimelb.edu.au/find/pathways/dentist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.85",
+    "international": "99.85",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Dental Surgery",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-dental-surgery/?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science?ref=cop",
+    "year": "2021",
+    "sort": "dentistry",
+    "filter": "all, 60465, 60470"
+  },
+  {
+    "name": "Bachelor of Biomedicine / Master of Engineering",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/engineer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Engineering",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/engineer/?ref=cop",
+    "ugName": "Bachelor of Biomedicine",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine?ref=cop",
+    "year": "2021",
+    "sort": "engineering",
+    "filter": "all, 60463, 60470"
+  },
+  {
+    "name": "Bachelor of Commerce / Master of Engineering",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/engineer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Engineering",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/engineer/?ref=cop",
+    "ugName": "Bachelor of Commerce",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce?ref=cop",
+    "year": "2021",
+    "sort": "engineering",
+    "filter": "all, 60463, 61104"
+  },
+  {
+    "name": "Bachelor of Design / Master of Engineering",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/engineer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Engineering",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/engineer/?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design?ref=cop",
+    "year": "2021",
+    "sort": "engineering",
+    "filter": "all, 60463, 61102"
+  },
+  {
+    "name": "Bachelor of Science / Master of Engineering",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/engineer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Engineering",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/engineer?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science?ref=cop",
+    "year": "2021",
+    "sort": "engineering",
+    "filter": "all, 60463, 60470"
+  },
+  {
+    "name": "Bachelor of Design / Master of Landscape Architecture",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/landscape-architect/entry-requirements/#graduate-degree-packages?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Landscape Architecture",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/master-of-landscape-architecture?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design?ref=cop",
+    "year": "2021",
+    "sort": "landscape",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Bachelor of Biomedicine / Doctor of Optometry",
+    "score": {
+      "gdp": {
+        "number": "99.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/optometrist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.00",
+    "international": "99.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Optometry",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-optometry?ref=cop",
+    "ugName": "Bachelor of Biomedicine",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/?ref=cop",
+    "year": "2021",
+    "sort": "optometry",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Bachelor of Science / Doctor of Optometry",
+    "score": {
+      "gdp": {
+        "number": "99.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/optometrist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.00",
+    "international": "99.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Optometry",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-optometry?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science?ref=cop",
+    "year": "2021",
+    "sort": "optometry",
+    "filter": "all, 60465, 60470"
+  },
+  {
+    "name": "Bachelor of Biomedicine / Doctor of Physiotherapy",
+    "score": {
+      "gdp": {
+        "number": "98.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/physiotherapist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "98.00",
+    "international": "98.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Physiotherapy",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-physiotherapy/?ref=cop",
+    "ugName": "Bachelor of Biomedicine",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/?ref=cop",
+    "year": "2021",
+    "sort": "physiotherapy",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Bachelor of Science / Doctor of Physiotherapy",
+    "score": {
+      "gdp": {
+        "number": "98.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/physiotherapist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "98.00",
+    "international": "98.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Physiotherapy",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-physiotherapy/?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/?ref=cop",
+    "year": "2021",
+    "sort": "physiotherapy",
+    "filter": "all, 60465, 60470"
+  },
+  {
+    "name": "Bachelor of Design / Master of Property",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/property-professional/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Property",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/master-of-property?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/?ref=cop",
+    "year": "2021",
+    "sort": "property",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Bachelor of Arts / Master of Urban Planning",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/urban-planner/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Urban Planning",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning?ref=cop",
+    "ugName": "Bachelor of Arts",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/?ref=cop",
+    "year": "2021",
+    "sort": "urban",
+    "filter": "all, 61102, 61103"
+  },
+  {
+    "name": "Bachelor of Design / Master of Urban Planning",
+    "score": {
+      "gdp": {
+        "number": "96.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/urban-planner/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "96.00",
+    "international": "96.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Urban Planning",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design?ref=cop",
+    "year": "2021",
+    "sort": "urban",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Bachelor of Science / Doctor of Veterinary Medicine",
+    "score": {
+      "gdp": {
+        "number": "98.50",
+        "url": "https://study.unimelb.edu.au/find/pathways/veterinarian/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "98.50",
+    "international": "98.50",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Doctor of Veterinary Medicine",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-veterinary-medicine?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/?ref=cop",
+    "year": "2021",
+    "sort": "veterinary",
+    "filter": "all, 60471, 60470"
+  },
+  {
+    "name": "Architecture",
+    "desc": "Architecture is a creative and exciting design-based profession concerned with virtually all aspects of the built environment.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/architect/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "architecture",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Audiology",
+    "desc": "Audiology is a clinical science involving hearing and balance assessment and rehabilitation.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/audiologist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "audiologist",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Construction management",
+    "desc": "Construction companies increasingly operate as a part of large project teams, where professionals from different disciplines work closely together.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/construction-manager/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "construction",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Dentistry",
+    "desc": "Dentistry is a challenging and rewarding profession that is responsible for the oral health of individuals and the wider community.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/dentist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "dentist",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Engineering",
+    "desc": "To become a professionally accredited engineer you'll complete an undergraduate degree followed by the Master of Engineering.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/engineer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "engineer",
+    "filter": "all, 60463"
+  },
+  {
+    "name": "Landscape architecture",
+    "desc": "Landscape architecture provides a unique bridge between the design professions and the environmental sciences.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/landscape-architect/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "landscape",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Law",
+    "desc": "Law is an exciting and challenging discipline. It offers insight into the worlds of politics, business and public affairs as well as law itself.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "lawyer",
+    "filter": "all, 60468"
+  },
+  {
+    "name": "Medicine",
+    "desc": "If you are passionate about health, biosciences and caring for people, then a career in medicine is a great choice.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/doctor/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "medicine",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Music therapy",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/interests/music-therapy/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "music therapist",
+    "filter": "all, 60469"
+  },
+  {
+    "name": "Nursing",
+    "desc": "Nursing is a rewarding career choice that will allow you to work with people of all ages in a wide variety of settings around the world.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/nurse/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "nursing",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Optometry",
+    "desc": "Optometry is a specialisation that trains you to examine, diagnose, treat and manage diseases and disorders of the visual system and the eyes.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/optometrist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "optometrist",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Physiotherapy",
+    "desc": "Physiotherapists assess and treat a variety of conditions that affect people's movement and physical function.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/physiotherapist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "physiotherapy",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Property",
+    "desc": "The property industry focuses on the ownership, development, management, funding, investment potential and occupation of land and buildings.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/property-professional/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "property",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Psychology",
+    "desc": "If working with people and exploring how they think, feel and behave appeals to you, a career in psychology is a great choice.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/psychologist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "psychologist",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Social work",
+    "desc": "Our Master of Social Work offers you an outstanding postgraduate course of study, preparing you for practice in a diverse range of contexts.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/social-worker/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "social",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Speech pathology",
+    "desc": "Speech pathology is the clinical science concerned with the assessment, treatment and management of communication and swallowing disorders.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/speech-pathologist/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "speech",
+    "filter": "all, 60465"
+  },
+  {
+    "name": "Teaching",
+    "desc": "Teachers are highly valued in our community and enjoy diverse career paths in classrooms, management and administration roles.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/teacher/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "teacher",
+    "filter": "all, 60462"
+  },
+  {
+    "name": "Urban design",
+    "desc": "Urban design is the art of making places, and is a collaborative process which shapes the physical setting for life in urban areas.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/urban-design/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "urban",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Urban planning",
+    "desc": "Urban planners are concerned with the interaction between people, the places they live in and the policies that help make liveable communities.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/urban-planner/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "urban",
+    "filter": "all, 61102"
+  },
+  {
+    "name": "Veterinary medicine",
+    "desc": "Studying veterinary medicine will earn you an internationally recognised qualification at a higher level than a traditional double degree.",
+    "score": {
+      "other": {
+        "isPathways": true,
+        "url": "https://study.unimelb.edu.au/find/pathways/veterinarian/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": false,
+    "isPathways": true,
+    "domestic": "50.00",
+    "international": "50.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "",
+    "gradUrl": "",
+    "ugName": "",
+    "ugUrl": "",
+    "year": "2021",
+    "sort": "vet",
+    "filter": "all, 60471"
+  },
+  {
+    "name": "Bachelor of Agriculture / Juris Doctor",
+    "score": {
+      "gdp": {
+        "number": "99.80",
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.80",
+    "international": "99.80",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Juris Doctor",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/?ref=cop",
+    "ugName": "Bachelor of Agriculture",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture?ref=cop",
+    "year": "2021",
+    "sort": "law",
+    "filter": "all, 60468, 60471"
+  },
+  {
+    "name": "Bachelor of Arts / Juris Doctor",
+    "score": {
+      "gdp": {
+        "number": "99.80",
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.80",
+    "international": "99.80",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Juris Doctor",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/?ref=cop",
+    "ugName": "Bachelor of Arts",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts?ref=cop",
+    "year": "2021",
+    "sort": "law",
+    "filter": "all, 60468, 61103"
+  },
+  {
+    "name": "Bachelor of Biomedicine / Juris Doctor",
+    "score": {
+      "gdp": {
+        "number": "99.80",
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.80",
+    "international": "99.80",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Juris Doctor",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/?ref=cop",
+    "ugName": "Bachelor of Biomedicine",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine?ref=cop",
+    "year": "2021",
+    "sort": "law",
+    "filter": "all, 60468, 61102, 61103, 61104, 60462, 60463, 60470, 60465, 60469, 60471"
+  },
+  {
+    "name": "Bachelor of Commerce / Juris Doctor",
+    "score": {
+      "gdp": {
+        "number": "99.80",
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.80",
+    "international": "99.80",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Juris Doctor",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/?ref=cop",
+    "ugName": "Bachelor of Commerce",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce?ref=cop",
+    "year": "2021",
+    "sort": "law",
+    "filter": "all, 60468, 61104"
+  },
+  {
+    "name": "Bachelor of Design / Juris Doctor",
+    "score": {
+      "gdp": {
+        "number": "99.80",
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.80",
+    "international": "99.80",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Juris Doctor",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design?ref=cop",
+    "year": "2021",
+    "sort": "law",
+    "filter": "all, 60468, 61102"
+  },
+  {
+    "name": "Bachelor of Science / Juris Doctor",
+    "score": {
+      "gdp": {
+        "number": "99.80",
+        "url": "https://study.unimelb.edu.au/find/pathways/lawyer/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "99.80",
+    "international": "99.80",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Juris Doctor",
+    "gradUrl": "https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science?ref=cop",
+    "year": "2021",
+    "sort": "law",
+    "filter": "all, 60468, 60463, 60470, 60465, 60471"
+  },
+  {
+    "name": "Bachelor of Arts / Master of Teaching (any specialisation)",
+    "score": {
+      "gdp": {
+        "number": "95.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/teacher/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "95.00",
+    "international": "95.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Teaching (any specialisation)",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/teacher?ref=cop",
+    "ugName": "Bachelor of Arts",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts?ref=cop",
+    "year": "2021",
+    "sort": "teaching",
+    "filter": "all, 60462, 61103"
+  },
+  {
+    "name": "Bachelor of Science / Master of Teaching (any specialisation)",
+    "score": {
+      "gdp": {
+        "number": "95.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/teacher/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "95.00",
+    "international": "95.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Teaching (any specialisation)",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/teacher?ref=cop",
+    "ugName": "Bachelor of Science",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science?ref=cop",
+    "year": "2021",
+    "sort": "teaching",
+    "filter": "all, 60462, 60470"
+  },
+  {
+    "name": "Bachelor of Design / Master of Teaching (any specialisation)",
+    "score": {
+      "gdp": {
+        "number": "95.00",
+        "url": "https://study.unimelb.edu.au/find/pathways/teacher/entry-requirements/?ref=cop"
+      },
+      "spacing": null
+    },
+    "isRangeCriteria": false,
+    "isGdp": true,
+    "isPathways": false,
+    "domestic": "95.00",
+    "international": "95.00",
+    "domesticGuarantee": "",
+    "internationalGuarantee": "",
+    "previousYearDom": "",
+    "previousYearInt": "",
+    "gradName": "Master of Teaching (any specialisation)",
+    "gradUrl": "https://study.unimelb.edu.au/find/pathways/teacher?ref=cop",
+    "ugName": "Bachelor of Design",
+    "ugUrl": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design?ref=cop",
+    "year": "2021",
+    "sort": "teaching",
+    "filter": "all, 60462, 61102"
+  }
+]

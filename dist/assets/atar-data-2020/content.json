@@ -1,0 +1,59 @@
+[
+    {
+        "sectionId": "inpage-links",
+        "sectionHeading": "Your study options",
+        "sectionSubHeading": "Explore each of your study options at Melbourne including courses with additional entry requirements and our pathways to graduate study."
+    },
+    {
+        "sectionId": "chancellor-banner-section",
+        "sectionHeading": "Melbourne Chancellor's Scholarship",
+        "sectionSubHeading": "One of our most prestigious scholarships for school leavers, the Melbourne Chancellor’s Scholarship offers generous fee exemptions, a guaranteed place in the graduate program of your choice at Melbourne and more. Awarded based on academic merit, this scholarship is available alongside all of our undergraduate degrees.",
+        "bannerImageUrl": "https://picsum.photos/seed/1/1200/540",
+        "ctaTextDom": "Find out more",
+        "ctaUrlDom": "https://scholarships.unimelb.edu.au/awards/melbourne-chancellors-scholarship-for-domestic-students",
+        "ctaTextInt": "Find out more",
+        "ctaUrlInt": "https://scholarships.unimelb.edu.au/awards/melbourne-chancellors-scholarship-for-international-students"
+    },
+    {
+        "sectionId": "atar-table-results",
+        "sectionHeading": "Where can your ATAR take you?",
+        "sectionSubHeading": "Your ATAR may meet our minimum eligibility for following the undergraduate programs:",
+        "sectionCountText": "courses found with ATAR-based entry, based on an ATAR of",
+        "noResultsHeading": "No matching courses found",
+        "noResultsBullets": [
+            "Please update your ATAR",
+            "Choose another interest area",
+            "Consider other <a href=\"http://www.somesite.com\">entry options</a> or get in touch."
+        ]
+    },
+    {
+        "sectionId": "range-criteria-table-results",
+        "sectionHeading": "Courses with additional entry requirements",
+        "sectionSubHeading": "For some of our courses, you'll need to meet our ATAR requirement and supply additional information to apply. Think - portfolio, audition or an interview. Check out which of these courses you may be eligible for and learn more about application requirements and deadlines.",
+        "sectionCountText": "courses with range of criteria based entry",
+        "rhsHeading": "Missed your deadline?",
+        "rhsSubHeading": "Stay in touch to find out when we're accepting new applications for your preferred course.",
+        "rhsCtaText": "Sign up",
+        "rhsCtaUrl": "#"
+    },
+    {
+        "sectionId": "gdp-table-results",
+        "sectionHeading": "Graduate Degree packages",
+        "sectionSubHeading": "Did you know that you can lock in both your undergraduate and graduate study with us by applying for one of our Graduate Degree Packages via VTAC? Your ATAR meets our minimum requirements for the following Graduate Degree Packages:",
+        "sectionCountText": "graduate degree packages"
+    },
+    {
+        "sectionId": "gdp-pathways-results",
+        "sectionHeading": "Your graduate study pathways",
+        "sectionSubHeading": "Find out where your undergraduate degree can take you by exploring your options for further study at Melbourne. Depending on the undergraduate you choose, your ATAR may meet our minimum requirements for the following pathways to graduate study:",
+        "sectionCountText": "pathways to graduate study"
+    },
+    {
+        "sectionId": "still-have-questions",
+        "sectionHeading": "Need more information about our courses?",
+        "sectionSubHeading": "Get in touch with our student services team at Stop 1. Chat to us one-on-one and ask any questions you have about studying at Melbourne.",
+        "bannerImageUrl": "https://picsum.photos/seed/1/1920/1080",
+        "ctaText": "Contact us",
+        "ctaUrl": "https://students.unimelb.edu.au/student-support/advice-and-help/stop-1"
+    }
+]
